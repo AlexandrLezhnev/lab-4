@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lab-4/static/css/main.faedee8b.css",
+    "main.js": "/lab-4/static/js/main.bebafa11.js",
+    "index.html": "/lab-4/index.html",
+    "main.faedee8b.css.map": "/lab-4/static/css/main.faedee8b.css.map",
+    "main.bebafa11.js.map": "/lab-4/static/js/main.bebafa11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faedee8b.css",
+    "static/js/main.bebafa11.js"
+  ]
+}
